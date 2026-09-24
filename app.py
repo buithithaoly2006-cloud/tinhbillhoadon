@@ -35,7 +35,7 @@ menu = {
    "Thức uống": {
        
        "Coca Cola": 20000,
-       "Cà phê chồn": 350000
+       "Cà phê chồn": 350000,
        "Pepsi": 20000,
        "Trà Đào Cam Sả": 35000,
        "Cà Phê Sữa": 25000,
